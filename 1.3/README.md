@@ -1,0 +1,1 @@
+gsutil mb -c Regional -l EUROPE-WEST3 gs://gswgcp-b_cs
